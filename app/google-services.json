@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547762602689",
+    "project_id": "tayser-20f8e",
+    "storage_bucket": "tayser-20f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547762602689:android:3ccc6c07e3f0f769118a40",
+        "android_client_info": {
+          "package_name": "com.example.tayser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547762602689-j70thnlp12372av1licrphi1aj173sbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zxH-Kc1NEO1umnNQ6vRadpW5paZm9z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547762602689-j70thnlp12372av1licrphi1aj173sbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
